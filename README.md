@@ -4,9 +4,9 @@ Meu primeiro portfolio desenvolvido com os cursos de HMTL e CSS da Alura.
 
 
 ## Ferramentas utilizadas:
-*HTML
-*CSS
-*Flex-box
+* HTML
+* CSS
+* Flex-box
 
 ## Feito por:
 ### Eric Cazotto
